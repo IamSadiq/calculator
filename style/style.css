@@ -1,0 +1,187 @@
+body
+{
+	background-color: grey;
+	background-image: url('bg.jpg');
+}
+
+.navDiv
+{
+	margin-top: -18px;
+	height: 50px;
+	background-color: #000;
+}
+
+h1{
+	margin-left: -100px;
+	font-family: georgia;
+	text-align: center;
+	color:#eeeffe;
+}
+
+input
+{
+	height: 40px;
+	width: 50px;
+}
+
+#textField
+{
+	width: 210px;
+	height: 40px;
+	background-color: white;
+	border-radius: 8px;
+	margin-bottom: 15px;
+	font-weight: bold;
+	font-size: 24px;
+	text-align: center;
+}
+
+#mainDiv
+{
+	padding: 20px;
+	border-radius: 8px;
+	border: thick 1px;
+	width: 220px;
+	margin-left: 500px;
+	background-color: #111166;
+	margin-top: 50px;
+	font-weight: bold;
+}
+
+#numDelete
+{
+	width:105px;
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#numReset
+{
+	width:105px;
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#firstDiv
+{
+	padding-top: 10px;
+}
+
+#lastDiv
+{
+	padding-bottom: 30px;
+}
+
+#num1
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#num2
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#num3
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#num4
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#num5
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#num6
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#num7
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#num8
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#num9
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#num0
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#numAdd
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#numSubtract
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#numDot
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#numDivide
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#numMultiply
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#numEqual
+{
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: bold;
+}

@@ -1,1 +1,2 @@
-"# calculator" 
+# calculator 
+Simple core javascript calculator
